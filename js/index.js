@@ -293,6 +293,9 @@ const favoriteListEmpty = () => {
 	} else {
 		if (favorite[0].title === "Lista de favoritos" && favorite.length > 1) {
 			favorite.splice(0, 1);
+		} else if (favorite[0].title !== "Lista de favoritos" && favorite.length === 1) {
+			favorite.splice(0, 1);
+			favorite.push({ title: "Lista de favoritos", favorite: false, id: "a00000" });
 		}
 	}
 
