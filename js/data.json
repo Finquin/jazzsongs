@@ -1,0 +1,961 @@
+[
+	{
+		"name": "Robben Ford",
+		"discography": [
+			{
+				"id": "a001",
+				"album": "Robben Ford & The Blue Line",
+				"songs": [
+					{
+						"track": "1",
+						"title": "The Brother",
+						"duracion": "4:41",
+						"code": "albsk4fwqd",
+						"isAvailable": true
+					},
+					{
+						"track": "2",
+						"title": "You Cut Me To The Bone",
+						"duracion": "4:47",
+						"code": "anymrwyfwy",
+						"isAvailable": false
+					},
+					{
+						"track": "3",
+						"title": "I'm A Real Man",
+						"duracion": "5:29",
+						"code": "aasgzxgj3c",
+						"isAvailable": false
+					},
+					{
+						"track": "4",
+						"title": "My Love Will Never Die",
+						"duracion": "5:26",
+						"code": "aqt3xe9v7g",
+						"isAvailable": false
+					},
+					{
+						"track": "5",
+						"title": "Step On It",
+						"duracion": "5:56",
+						"code": "a8pna1138o",
+						"isAvailable": false
+					},
+					{
+						"track": "6",
+						"title": "Prison Of Love",
+						"duracion": "4:24",
+						"code": "aj6fvn9c9i",
+						"isAvailable": true
+					},
+					{
+						"track": "7",
+						"title": "Tell Me I'm Your Man",
+						"duracion": "6:12",
+						"code": "ann298u9oq",
+						"isAvailable": false
+					},
+					{
+						"track": "8",
+						"title": "Start It Up",
+						"duracion": "3:45",
+						"code": "al8v663md2",
+						"isAvailable": false
+					},
+					{
+						"track": "9",
+						"title": "Life Song (One For Annie)",
+						"code": "aae9kyv0z9",
+						"isAvailable": false
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Pat Martino",
+		"discography": [
+			{
+				"id": "a002",
+				"album": "The Maker",
+				"songs": [
+					{
+						"track": "1",
+						"title": "Noshufuru",
+						"duration": "12:29",
+						"code": "a1pc3f601p",
+						"isAvailable": false
+					},
+					{
+						"track": "2",
+						"title": "You're Welcome To A Prayer",
+						"duration": "8:53",
+						"code": "aao4oaynod",
+						"isAvailable": false
+					},
+					{
+						"track": "3",
+						"title": "The Changing Tides",
+						"duration": "7:33",
+						"code": "axmhm4zju1",
+						"isAvailable": false
+					},
+					{
+						"track": "4",
+						"title": "Yoshiko",
+						"duration": "11:51",
+						"code": "agkirik0rv",
+						"isAvailable": false
+					},
+					{
+						"track": "5",
+						"title": "This Autumns Ours",
+						"duration": "10:01",
+						"code": "aln0m43jm1",
+						"isAvailable": true
+					}
+				]
+			},
+			{
+				"id": "a003",
+				"album": "Exit",
+				"songs": [
+					{
+						"track": 1,
+						"title": "Exit",
+						"duration": "9:23",
+						"code": "aic49stb6k",
+						"isAvailable": false
+					},
+					{
+						"track": 2,
+						"title": "Come Sunday",
+						"duration": "7:30",
+						"code": "az8ov99ctw",
+						"isAvailable": false
+					},
+					{
+						"track": 3,
+						"title": "Three Base Hit",
+						"duration": "4:30",
+						"code": "ajybj6i96m",
+						"isAvailable": false
+					},
+					{
+						"track": 4,
+						"title": "Days of Wine and Roses",
+						"duration": "4:47",
+						"code": "ac6l34b3qi",
+						"isAvailable": true
+					},
+					{
+						"track": 5,
+						"title": "Blue Bossa",
+						"duration": "4:57",
+						"code": "a5sa91mgw7",
+						"isAvailable": true
+					},
+					{
+						"track": 6,
+						"title": "I Remember Clifford",
+						"duration": "7:48",
+						"code": "audtde4umg",
+						"isAvailable": false
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Grant Green",
+		"discography": [
+			{
+				"id": "a004",
+				"album": "Ballads",
+				"songs": [
+					{
+						"track": "1",
+						"title": "My One And Only Love",
+						"duration": "5:47",
+						"code": "a0wngpyseu",
+						"isAvailable": false
+					},
+					{
+						"track": "2",
+						"title": "God Bless The Child",
+						"duration": "7:21",
+						"code": "amm6ytu339",
+						"isAvailable": false
+					},
+					{
+						"track": "3",
+						"title": "My Funny Valentine",
+						"duration": "9:03",
+						"code": "a75pttu4cf",
+						"isAvailable": false
+					},
+					{
+						"track": "4",
+						"title": "Little Girl Blue",
+						"duration": "7:12",
+						"code": "aqd9fzv8wl",
+						"isAvailable": false
+					},
+					{
+						"track": "5",
+						"title": "Born To Be Blue",
+						"duration": "4:52",
+						"code": "atmzubux5b",
+						"isAvailable": false
+					},
+					{
+						"track": "6",
+						"title": "Nancy (With The Laughing Face)",
+						"duration": "6:20",
+						"code": "a2smosfoqd",
+						"isAvailable": false
+					},
+					{
+						"track": "7",
+						"title": "Round Midnight",
+						"duration": "7:15",
+						"code": "a5h8lagfn6",
+						"isAvailable": true
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "George Benson",
+		"discography": [
+			{
+				"id": "a005",
+				"album": "Breezin",
+				"songs": [
+					{
+						"track": "1",
+						"title": "Breezin'",
+						"duration": "5:40",
+						"code": "a0sbtn9qn5",
+						"isAvailable": false
+					},
+					{
+						"track": "2",
+						"title": "This Masquerade",
+						"duration": "8:03",
+						"code": "a9u4xj5t0r",
+						"isAvailable": true
+					},
+					{
+						"track": "3",
+						"title": "Six to Four",
+						"duration": "5:06",
+						"code": "axu0nclaml",
+						"isAvailable": false
+					},
+					{
+						"track": "4",
+						"title": "Affirmation",
+						"duration": "6:58",
+						"code": "arjoi9dmz7",
+						"isAvailable": true
+					},
+					{
+						"track": "5",
+						"title": "So This is Love?",
+						"duration": "7:03",
+						"code": "agrlajfzff",
+						"isAvailable": false
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Wes Montgomery",
+		"discography": [
+			{
+				"id": "a006",
+				"album": "The Incredible Jazz Guitar of",
+				"songs": [
+					{
+						"track": "1",
+						"title": "Airegin",
+						"duration": "4:26",
+						"code": "a6izdsvdyu",
+						"isAvailable": false
+					},
+					{
+						"track": "2",
+						"title": "D-Natural Blues",
+						"duration": "5:24",
+						"code": "aouez6c8mk",
+						"isAvailable": false
+					},
+					{
+						"track": "3",
+						"title": "Polka Dots and Moonbeams",
+						"duration": "4:44",
+						"code": "abi7bm4m0i",
+						"isAvailable": false
+					},
+					{
+						"track": "4",
+						"title": "Four on Six",
+						"duration": "6:13",
+						"code": "achsr88dy3",
+						"isAvailable": true
+					},
+					{
+						"track": "5",
+						"title": "West Coast Blues",
+						"duration": "7:23",
+						"code": "a3pjw8dsj7",
+						"isAvailable": true
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Rosenberg Trio",
+		"discography": [
+			{
+				"id": "a007",
+				"album": "Gypsy Summer",
+				"songs": [
+					{
+						"track": "1",
+						"title": "Gypsy Summer",
+						"duration": "3:59",
+						"code": "avtgu36j6g",
+						"isAvailable": false
+					},
+					{
+						"track": "2",
+						"title": "Coquette",
+						"duration": "2:51",
+						"code": "acfkbxylhz",
+						"isAvailable": false
+					},
+					{
+						"track": "3",
+						"title": "I Can't Give You Anything But Love",
+						"duration": "3:32",
+						"code": "ad3rze2iya",
+						"isAvailable": false
+					},
+					{
+						"track": "4",
+						"title": "Embraceable You",
+						"duration": "4:03",
+						"code": "ac2pxi7nvg",
+						"isAvailable": false
+					},
+					{
+						"track": "5",
+						"title": "I'll See You in My Dreams",
+						"duration": "3:17",
+						"code": "a9h8wgwwnx",
+						"isAvailable": false
+					},
+					{
+						"track": "6",
+						"title": "Entre Dos Aguas",
+						"duration": "3:52",
+						"code": "a7i2u8a5s4",
+						"isAvailable": true
+					},
+					{
+						"track": "7",
+						"title": "Rio Ancho",
+						"duration": "3:57",
+						"code": "a3r7i1o2an",
+						"isAvailable": false
+					},
+					{
+						"track": "8",
+						"title": "For Sephora",
+						"duration": "4:28",
+						"code": "afs7e9pho4",
+						"isAvailable": false
+					},
+					{
+						"track": "9",
+						"title": "Stella By Starlight",
+						"duration": "3:53",
+						"code": "as2te4lalb",
+						"isAvailable": false
+					},
+					{
+						"track": "10",
+						"title": "Micro",
+						"duration": "2:15",
+						"code": "am2icr4o",
+						"isAvailable": false
+					},
+					{
+						"track": "11",
+						"title": "Gipsy-Summer",
+						"duration": "3:33",
+						"code": "ag8ipssum",
+						"isAvailable": false
+					},
+					{
+						"track": "12",
+						"title": "Insensiblement",
+						"duration": "2:48",
+						"code": "ains2si8bl",
+						"isAvailable": true
+					},
+					{
+						"track": "13",
+						"title": "Spain",
+						"duration": "4:12",
+						"code": "asp2ai7n",
+						"isAvailable": false
+					},
+					{
+						"track": "14",
+						"title": "Armando's Rumba",
+						"duration": "4:00",
+						"code": "aar3ma2du",
+						"isAvailable": false
+					},
+					{
+						"track": "15",
+						"title": "Honeysuckle Rose",
+						"duration": "2:45",
+						"code": "ahr5se2ro",
+						"isAvailable": false
+					},
+					{
+						"track": "16",
+						"title": "Improvisation",
+						"duration": "3:00",
+						"code": "aim1pro1vi",
+						"isAvailable": false
+					},
+					{
+						"track": "17",
+						"title": "Groovin' High",
+						"duration": "2:44",
+						"code": "agr5oo4vi",
+						"isAvailable": false
+					},
+					{
+						"track": "18",
+						"title": "Anouman",
+						"duration": "2:33",
+						"code": "aan4ou3ma",
+						"isAvailable": false
+					},
+					{
+						"track": "19",
+						"title": "Evocacao De Jacob",
+						"duration": "2:43",
+						"code": "aed5jaco",
+						"isAvailable": false
+					},
+					{
+						"track": "20",
+						"title": "Blues For Jessie",
+						"duration": "2:49",
+						"code": "ab5luforj",
+						"isAvailable": false
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Luis Salinas-Tomatito",
+		"discography": [
+			{
+				"id": "a008",
+				"album": "El Guitarrazo",
+				"songs": [
+					{
+						"track": "1",
+						"title": "Para Troilo Y Salgán",
+						"duration": "",
+						"code": "a2fm12k4ie",
+						"isAvailable": true
+					},
+					{
+						"track": "2",
+						"title": "Aires",
+						"duration": "",
+						"code": "aoyhy4zhhz",
+						"isAvailable": true
+					},
+					{
+						"track": "3",
+						"title": "La Pesada",
+						"duration": "",
+						"code": "at368636n6",
+						"isAvailable": false
+					},
+					{
+						"track": "4",
+						"title": "Pa' El Tomate",
+						"duration": "",
+						"code": "awbi21kymm",
+						"isAvailable": false
+					},
+					{
+						"track": "5",
+						"title": "Un Ratito Más",
+						"duration": "",
+						"code": "aitrbmwidt",
+						"isAvailable": false
+					},
+					{
+						"track": "6",
+						"title": "Vals De Lauro",
+						"duration": "",
+						"code": "aitfglics1",
+						"isAvailable": false
+					},
+					{
+						"track": "7",
+						"title": "La Bacilona",
+						"duration": "",
+						"code": "a09frspinp",
+						"isAvailable": false
+					},
+					{
+						"track": "8",
+						"title": "El Día Antes",
+						"duration": "",
+						"code": "aemdlsscz6",
+						"isAvailable": false
+					},
+					{
+						"track": "9",
+						"title": "Rumbeando Al Norte",
+						"duration": "",
+						"code": "am16stlxjn",
+						"isAvailable": false
+					},
+					{
+						"track": "10",
+						"title": "Zamba De Mi Esperanza",
+						"duration": "",
+						"code": "a40fx46we4",
+						"isAvailable": false
+					},
+					{
+						"track": "11",
+						"title": "Almíbar",
+						"duration": "",
+						"code": "awjpcslaf2",
+						"isAvailable": false
+					},
+					{
+						"track": "12",
+						"title": "Aires De Tango",
+						"duration": "",
+						"code": "af594q47v7",
+						"isAvailable": false
+					},
+					{
+						"track": "13",
+						"title": "La Milonguera",
+						"duration": "",
+						"code": "aekc3f54xh",
+						"isAvailable": false
+					},
+					{
+						"track": "14",
+						"title": "Besame Mucho",
+						"duration": "",
+						"code": "a61zcv081z",
+						"isAvailable": false
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Luis Salinas",
+		"discography": [
+			{
+				"id": "a009",
+				"album": "Muchas Cosas",
+				"songs": [
+					{
+						"track": "01",
+						"title": "Fa Do",
+						"duration": "",
+						"code": "a8pstkvgc2",
+						"isAvailable": false
+					},
+					{
+						"track": "02",
+						"title": "Tu Me Haces Falta",
+						"duration": "",
+						"code": "amzav15uif",
+						"isAvailable": false
+					},
+					{
+						"track": "03",
+						"title": "Anochece",
+						"duration": "",
+						"code": "aymtel7y7a",
+						"isAvailable": false
+					},
+					{
+						"track": "04",
+						"title": "Funny blues",
+						"duration": "",
+						"code": "auamkpaa09",
+						"isAvailable": true
+					},
+					{
+						"track": "05",
+						"title": "Domingo Triste",
+						"duration": "",
+						"code": "aemh1teke1",
+						"isAvailable": false
+					},
+					{
+						"track": "06",
+						"title": "Oliverio",
+						"duration": "",
+						"code": "a3y9k36gla",
+						"isAvailable": false
+					},
+					{
+						"track": "07",
+						"title": "Adios",
+						"duration": "",
+						"code": "azmpl2vl2e",
+						"isAvailable": false
+					},
+					{
+						"track": "08",
+						"title": "Pascuali",
+						"duration": "",
+						"code": "ahk2dkbbv0",
+						"isAvailable": false
+					},
+					{
+						"track": "09",
+						"title": "Muchas Cosas",
+						"duration": "",
+						"code": "a9hoevnvwa",
+						"isAvailable": false
+					},
+					{
+						"track": "10",
+						"title": "Ahí Viene",
+						"duration": "",
+						"code": "a4zfip9vc1",
+						"isAvailable": true
+					},
+					{
+						"track": "11",
+						"title": "Ana",
+						"duration": "",
+						"code": "ai63gabb6y",
+						"isAvailable": false
+					},
+					{
+						"track": "12",
+						"title": "Para Cheo y Papo Lucas",
+						"duration": "",
+						"code": "ankbutxtqp",
+						"isAvailable": false
+					},
+					{
+						"track": "13",
+						"title": "Lamentablemente",
+						"duration": "",
+						"code": "af7j2742ie",
+						"isAvailable": false
+					},
+					{
+						"track": "14",
+						"title": "Camina",
+						"duration": "",
+						"code": "a938a12v50",
+						"isAvailable": false
+					},
+					{
+						"track": "15",
+						"title": "Alla Va",
+						"duration": "",
+						"code": "ai3skh9qtw",
+						"isAvailable": false
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Sylvain Luc - Bireli Lagrene",
+		"discography": [
+			{
+				"id": "a010",
+				"album": "Duet",
+				"songs": [
+					{
+						"track": "01",
+						"title": "Time After Time",
+						"duration": "4:14",
+						"code": "arqix6dows",
+						"isAvailable": true
+					},
+					{
+						"track": "02",
+						"title": "Douce Ambiance",
+						"duration": "4:01",
+						"code": "a4imw7ivi1",
+						"isAvailable": false
+					},
+					{
+						"track": "03",
+						"title": "Estate",
+						"duration": "4:10",
+						"code": "a860bj9wmf",
+						"isAvailable": false
+					},
+					{
+						"track": "04",
+						"title": "Made In France",
+						"duration": "3:18",
+						"code": "apv9ilabqz",
+						"isAvailable": false
+					},
+					{
+						"track": "05",
+						"title": "La Ballad Irlandaise",
+						"duration": "6:41",
+						"code": "aux04z5sjg",
+						"isAvailable": false
+					},
+					{
+						"track": "06",
+						"title": "Isnt She Lovely",
+						"duration": "4:02",
+						"code": "av2d835aq6",
+						"isAvailable": true
+					},
+					{
+						"track": "07",
+						"title": "Road Song",
+						"duration": "4:18",
+						"code": "alsbc6foqr",
+						"isAvailable": false
+					},
+					{
+						"track": "08",
+						"title": "Zurezat",
+						"duration": "4:12",
+						"code": "aak1r4z531",
+						"isAvailable": false
+					},
+					{
+						"track": "09",
+						"title": "Stompin’ At The Savoy",
+						"duration": "5:43",
+						"code": "ay53bmk4ab",
+						"isAvailable": false
+					},
+					{
+						"track": "10",
+						"title": "Les Amoureux Des Bancs Pubics",
+						"duration": "4:37",
+						"code": "auol43075v",
+						"isAvailable": false
+					},
+					{
+						"track": "11",
+						"title": "Blackbird",
+						"duration": "3:22",
+						"code": "a5gqszxopa",
+						"isAvailable": true
+					},
+					{
+						"track": "12",
+						"title": "Syracuse",
+						"duration": "4:21",
+						"code": "a0rw1yo4nl",
+						"isAvailable": false
+					},
+					{
+						"track": "13",
+						"title": "Looking Up",
+						"duration": "1:58",
+						"code": "aeupn9gg90",
+						"isAvailable": false
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Barney Kessel",
+		"discography": [
+			{
+				"id": "a011",
+				"album": "Yesterday",
+				"songs": [
+					{
+						"track": "01",
+						"title": "Yesterday",
+						"duration": "03:a00",
+						"code": "awnn1rpw56",
+						"isAvailable": false
+					},
+					{
+						"track": "02",
+						"title": "Blue Skies",
+						"duration": "02:50",
+						"code": "afjliytd54",
+						"isAvailable": false
+					},
+					{
+						"track": "03",
+						"title": "On a Clear Day",
+						"duration": "04:05",
+						"code": "ajf89oz6st",
+						"isAvailable": false
+					},
+					{
+						"track": "04",
+						"title": "Volare",
+						"duration": "03:15",
+						"code": "a56wm5mdze",
+						"isAvailable": false
+					},
+					{
+						"track": "05",
+						"title": "Autumn Leaves",
+						"duration": "04:30",
+						"code": "aco8m37n7g",
+						"isAvailable": false
+					},
+					{
+						"track": "06",
+						"title": "Moon River",
+						"duration": "03:20",
+						"code": "a58lbxxryz",
+						"isAvailable": false
+					},
+					{
+						"track": "07",
+						"title": "Body and Soul",
+						"duration": "05:10",
+						"code": "ayk2sm1aav",
+						"isAvailable": false
+					},
+					{
+						"track": "08",
+						"title": "My Funny Valentine",
+						"duration": "03:45",
+						"code": "aax03zirov",
+						"isAvailable": false
+					},
+					{
+						"track": "09",
+						"title": "Like Someone in Love",
+						"duration": "03:25",
+						"code": "a8pg7omf7l",
+						"isAvailable": false
+					},
+					{
+						"track": "10",
+						"title": "Here's That Rainy Day",
+						"duration": "04:15",
+						"code": "aj1vnd1bfu",
+						"isAvailable": false
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Robert Cray",
+		"discography": [
+			{
+				"id": "a012",
+				"album": "Robert Cray Band Bad Influence",
+				"songs": [
+					{
+						"track": "01",
+						"title": "Smoking Gun",
+						"duration": "04:09",
+						"code": "aye4n9p2tf",
+						"isAvailable": false
+					},
+					{
+						"track": "02",
+						"title": "I Guess I Showed Her",
+						"duration": "03:40",
+						"code": "aftsah3dih",
+						"isAvailable": false
+					},
+					{
+						"track": "03",
+						"title": "Right Next Door (Because Of Me)",
+						"duration": "04:21",
+						"code": "a3hrmcymxs",
+						"isAvailable": false
+					},
+					{
+						"track": "04",
+						"title": "Nothin But A Woman",
+						"duration": "03:58",
+						"code": "af3w889l48",
+						"isAvailable": true
+					},
+					{
+						"track": "05",
+						"title": "Still Around",
+						"duration": "03:43",
+						"code": "a8whj4i21b",
+						"isAvailable": true
+					},
+					{
+						"track": "06",
+						"title": "More Than I Can Stand",
+						"duration": "02:58",
+						"code": "a2pigzrinq",
+						"isAvailable": false
+					},
+					{
+						"track": "07",
+						"title": "Foul Play",
+						"duration": "04:07",
+						"code": "a73a8kvx55",
+						"isAvailable": false
+					},
+					{
+						"track": "08",
+						"title": "I Wonder",
+						"duration": "03:57",
+						"code": "a7evkx2xo9",
+						"isAvailable": false
+					},
+					{
+						"track": "09",
+						"title": "Fantasized",
+						"duration": "04:05",
+						"code": "aktwe9j6eu",
+						"isAvailable": false
+					},
+					{
+						"track": "10",
+						"title": "New Blood",
+						"duration": "04:20",
+						"code": "axdvqvvyl2",
+						"isAvailable": false
+					}
+				]
+			}
+		]
+	}
+]

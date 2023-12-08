@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+	<link rel="icon" type="image/x-icon" href="./img/favicon.ico">
+
+	<link rel="stylesheet" href="./css/style.css">
+	<script defer src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+	<script defer src="./js/index.js"></script>
+
+	<title>¿Quien Toca?</title>
+</head>
+
+<body>
+	<header>
+		<nav>
+			<h1 class="title">JazzSongs</h1>
+		</nav>
+	</header>
+	<main class="site-main">
+		<div class="tv-ctn">
+			<div class="tv-header minmax-200">
+				<div id="toastify" class="tv-glass panel br-n ">
+					<div class="tv-glass-header--col1 col1 noise wd-400 scroll-style">
+						<p class="info">Los temas que se pueden escuchar estan <u>subrayados</u></p>
+					</div>
+					<div class="tv-glass-footer--col1 ">
+						<span></span>
+						<span class="tv-glass-footer--col1-namePlayer"></span>
+						<span class="tv-glass-footer--col1--album"></span>
+					</div>
+				</div>
+				<div class="tv-glass panel br-n minw-300 ">
+					<div class="tv-glass-header--col2 ">
+					</div>
+				</div>
+			</div>
+			<div class="tv-button-ctn">
+
+
+
+				<button class=" button-ctn " data-playing=" false" role="switch" aria-checked="false" id="play">
+					<span class="button-inside dark-gray play">
+						<svg>
+							<use width="40px" height="40px" fill="hsl(0deg 0% 65%)" alt="play" href="./img/svg/icons.svg#btnPlay" />
+						</svg></span>
+				</button>
+
+				<button class="button-ctn" data-playing="false" role="switch" aria-checked="false" id="stop">
+					<span class="button-inside dark-gray stop">
+						<svg>
+							<use fill="hsl(0deg 0% 65%)" width="20px" height="20px" alt="stop" href="./img/svg/icons.svg#btnStop" />
+						</svg>
+					</span>
+				</button>
+
+				<button class="button-ctn" data-playing="false" role="switch" aria-checked="false" id="pause">
+					<span class="button-inside dark-gray pause">
+						<svg>
+							<use width="30px" height="30px" fill="hsl(0deg 0% 65%)" alt="pause" href="./img/svg/icons.svg#btnPause" />
+						</svg>
+					</span>
+				</button>
+			</div>
+
+
+			<div class="tv-glass panel  fle-aj ">
+				<div class="ww">
+					<button class="button-ctn " id="delete">
+						<span class="button-inside dark-gray delete">
+							<svg>
+								<use fill="hsl(0deg 0% 65%)" width="25" height="25" href="./img/svg/icons.svg#icon-delete" />
+							</svg>
+						</span>
+					</button>
+				</div>
+				<div class="tv-glass-main--favorite scroll-style">
+				</div>
+			</div>
+	</main>
+	<footer>
+		<div class="tv-glass panel panel-gallery 	">
+			<div class="tv-glass-footer pd-2r" class="scroll-style"></div>
+		</div>
+
+	</footer>
+</body>
+
+</html>
